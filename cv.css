@@ -1,4 +1,19 @@
 body {
-    margin: 0, auto;
-    width: 60%;
+    margin: 0 auto;
+    width: 70%;
+    font-family: 'Roboto Slab', sans-serif;
+}
+.portrait {
+    height: auto;
+    float: right;
+}
+h1 {
+    font-size: 4rem;
+}
+.grey {
+    color: grey;
+    font-size: 0.9rem;
+}
+.title {
+    color: #ff8637;
 }

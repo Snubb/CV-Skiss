@@ -10,7 +10,7 @@ En marginal på sidorna så att texten hamnar längre mot mitten.
 ### Färg
 Mestadels svart text förutom lite orange på t.ex titeln och underrubriker. Även linjerna är orangea.
 ### Typsnitt
-Roboto Slab Regular 400
+Roboto Slab Regular 400, sans-serif.
 Inte mycket anledning, tyckte den var fin.
 ### Visuella element
 Orangea linjer för att separera delarna.

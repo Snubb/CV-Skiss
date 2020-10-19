@@ -1,14 +1,31 @@
-body {
+main {
     margin: 0 auto;
     width: 70%;
     font-family: 'Roboto Slab', sans-serif;
 }
+header {
+    margin: 0 auto;
+    width: 70%;
+    font-family: 'Roboto Slab' sans-serif;
+}
 .portrait {
+    width: 30%;
     height: auto;
     float: right;
 }
+.logo {
+    width: 30%;
+}
+.logo-bar {
+    border-bottom: 3px solid #ff8637;
+}
 h1 {
     font-size: 4rem;
+    margin-bottom: 0;
+    border-bottom: none !important;
+}
+h3 {
+    margin-top: 0;
 }
 .grey {
     color: grey;
@@ -16,4 +33,36 @@ h1 {
 }
 .title {
     color: #ff8637;
+}
+nav {
+    border-bottom: 2px solid #ff8637;
+    height: 2.5rem;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.nav-list {
+    list-style: none;
+    font-size: 1.9rem;
+    display: inline;
+    margin-left: 1rem;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+}
+a:hover {
+    text-decoration: none;
+    color: #ff8637;
+}
+.nav-content {
+    text-align: center;
+}
+.line {
+    border-bottom: 2px solid #ff8637;
+}
+#Prof_exp {
+    margin-top: 4rem;
 }

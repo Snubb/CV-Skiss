@@ -37,6 +37,14 @@ h3 {
 .title {
     color: #ff8637;
 }
+.title::before {
+    display: block; 
+    content: " "; 
+    margin-top: -130px; 
+    height: 130px; 
+    visibility: hidden; 
+    pointer-events: none;
+}
 nav {
     border-bottom: 2px solid #ff8637;
     height: 2.5rem;
@@ -66,6 +74,6 @@ a:hover {
 .line {
     border-bottom: 2px solid #ff8637;
 }
-#Prof_exp {
-    padding-top: 7px;
+#Contact_information {
+    padding-bottom: 7px;
 }

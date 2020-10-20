@@ -1,19 +1,23 @@
 main {
     margin: 0 auto;
-    width: 60%;
+    width: 70%;
     font-family: 'Roboto Slab', sans-serif;
+    padding-top: 13rem;
+}
+body {
+    margin-top: 0;
+    margin-left: 0;
 }
 header {
-    margin: 0 auto;
-    width: 60%;
-    font-family: 'Roboto Slab' sans-serif;
-    padding-bottom: 5rem;
+    position: fixed;
+    background-color: white;
+    width: 100%;
 }
 .portrait {
     float: right;
 }
 .logo {
-    width: 30%;
+    width: 20%;
 }
 .logo-bar {
     border-bottom: 3px solid #ff8637;
@@ -61,4 +65,7 @@ a:hover {
 }
 .line {
     border-bottom: 2px solid #ff8637;
+}
+#Prof_exp {
+    padding-top: 7px;
 }

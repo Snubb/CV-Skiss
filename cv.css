@@ -56,13 +56,13 @@ a {
 }
 .nav-list {
     list-style: none;
-    font-size: 1.8rem;
+    font-size: 1.7rem;
     display: inline;
-    margin-left: 1rem;
+    margin-left: 0.9rem;
     text-align: center;
     text-decoration: none;
     color: black;
-    margin-right: 1rem;
+    margin-right: 0.9rem;
     margin-bottom: 0.5rem;
 }
 a:hover {

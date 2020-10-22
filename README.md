@@ -14,3 +14,5 @@ Roboto Slab Regular 400, sans-serif.
 Inte mycket anledning, tyckte den var fin.
 ### Visuella element
 Orangea linjer för att separera delarna.
+### Bilden och copyright
+Bilden har jag personligen gjort i SFM och enligt valves video policy(https://store.steampowered.com/video_policy) så får man använda det man gjort hur man vill så länge man inte tar betalt för det.

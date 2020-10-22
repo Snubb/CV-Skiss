@@ -78,9 +78,3 @@ a:hover {
 #Contact_information {
     padding-bottom: 7px;
 }
-.nav-list:last-child {
-    margin-right: 0;
-}
-.nav-list:first-child {
-    margin-left: 0;
-}

@@ -2,7 +2,7 @@ main {
     margin: 0 auto;
     width: 70%;
     font-family: 'Roboto Slab', sans-serif;
-    padding-top: 13rem;
+    padding-top: 10rem;
 }
 body {
     margin-top: 0;
@@ -42,8 +42,8 @@ h3 {
 .title::before {
     display: block; 
     content: " "; 
-    margin-top: -130px; 
-    height: 130px; 
+    margin-top: -150px; 
+    height: 150px; 
     visibility: hidden; 
     pointer-events: none;
 }
@@ -81,4 +81,5 @@ a:hover {
 }
 .margin0 {
     margin: 0;
+    padding: 0;
 }
